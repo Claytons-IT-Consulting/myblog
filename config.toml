@@ -7,6 +7,10 @@ theme="beautifulhugo"
 [Params]
 subtitle = "A place for my thoughts"
 logo = "/website-blog-pic.png"
+logoWidth = 121
+logoHeight = 50
+
+description = "Having Fun with Technology"
 
 
 [Author]
