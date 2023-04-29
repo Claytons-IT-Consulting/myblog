@@ -6,7 +6,7 @@ theme="beautifulhugo"
 
 [Params]
 subtitle = "A place for my thoughts"
-logo = "/website-blog-pic.png"
+logo = "images/website-blog-pic.png"
 logoWidth = 121
 logoHeight = 50
 
