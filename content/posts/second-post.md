@@ -1,7 +1,7 @@
 ---
 title: "Slow computer(s)/laptop(s)?"
 date: 2023-04-28T09:20:10-05:00
-draft: true
+draft: false
 ---
 
 
