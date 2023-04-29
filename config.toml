@@ -1,0 +1,16 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = "Clayton's Blog"
+theme="beautifulhugo"
+
+
+[Params]
+subtitle = "A place for my thoughts"
+logo = "/website-blog-pic.png"
+
+
+[Author]
+website = "in-progress"
+email = "claytons.it.consulting@gmail.com"
+github = "in-progress"
+youtube = "in-progress"
